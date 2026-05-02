@@ -1,3 +1,14 @@
+## Screenshots
+
+![Class Diagram](./assets/diagram1.png)
+
+![Dog Inheritance Flow](./assets/diagram2.png)
+
+![Constructor Chaining](./assets/diagram3.png)
+
+![Polymorphism Example](./assets/diagram4.png)
+
+
 # animalInheritance
   
   ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
